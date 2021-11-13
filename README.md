@@ -1,2 +1,3 @@
 # Projekt-OK-
-FFT
+Fast Fourier transform (FFT)
+
